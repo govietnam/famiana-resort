@@ -1,0 +1,14 @@
+
+{
+    "name": "vietnam-visa/famiana-resort",
+    "description": "booking-famiana-resort-nha-trang-vietnam",
+    "type": "metapackage",
+    "license": "MIT",
+    "authors": [
+        {
+			"name": "vietnam",
+            "email": "tungrua@sina.com"
+			}
+    ],
+    "require": {}
+}
